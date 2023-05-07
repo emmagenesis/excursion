@@ -3,7 +3,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
-
+/* headers */
 h1 {
     color: #fff;
     font-weight: normal;
@@ -21,12 +21,15 @@ h4 {
     color: #808080;    
 }
 
+/* links */
 .link {
     font-size: 16px;
     color: aquamarine;
 }
 
+/*footer */
 footer {
     text-align: right;
     color: #808080;
+    font-size: 21px;
 }
